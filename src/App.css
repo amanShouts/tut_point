@@ -4,6 +4,6 @@
   padding: 0;
 }
 
-img, button, select, input[type='button'] {
+img, button, select, input[type='button'], a, Link {
   cursor: pointer;
 }
