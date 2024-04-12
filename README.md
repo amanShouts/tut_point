@@ -1,8 +1,10 @@
-# React + Vite
+# Student Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* _Video History_ - video starts from previously left timestamp
+* _Recently Watched Videos_ - list is populated with recently watched videos 
+* Student can log in/ sign in (pending)
+* Only logged in user can browse videos (pending)
 
-Currently, two official plugins are available:
+[Deployed Link](https://tut-point.vercel.app/) - https://tut-point.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### React | Tailwind | Google Firebase/Firestore
